@@ -1,0 +1,8 @@
+.navBar
+{
+    color:orangered;
+    height:35vh;
+    background-image: url('../assets/pizza-3298685_1280.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}

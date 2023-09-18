@@ -1,0 +1,17 @@
+.Header
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.clicked
+{
+    border:2px solid red;
+}
+.clicked
+{
+    border:2px solid red;
+}

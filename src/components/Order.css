@@ -1,0 +1,29 @@
+
+
+.order-list
+{
+    display: flex;
+    flex-direction: row;
+    color: orangered;
+    flex-wrap: wrap;
+    margin:25px;
+    justify-content: center;
+    align-items: center;
+}
+
+input{
+    padding: 200px;
+    background-color: rgba(0,0,0,0.8);
+    border:2px solid red;
+    margin-left:20px;
+}
+
+.result
+{
+    color:orange;
+    font-weight: bold;
+    font-size: 23px;
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+}
